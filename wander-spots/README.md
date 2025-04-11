@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 WanderSpots
 
-## Getting Started
+**WanderSpots** is a full-stack project built with Next.js and TypeScript that helps travelers discover offbeat, introspective, and interactive local experiences during their free time.
 
-First, run the development server:
+This project aims to:
+- Detect free time gaps in a user's itinerary
+- Suggest non-touristy, non-food activities nearby
+- Blend external event data with community-curated Wanderlog-style content
+- Deliver fast, delightful UI with scalable backend logic
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🛠️ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Frontend & Backend**: [Next.js](https://nextjs.org/) with TypeScript
+- **API Routes**: Built into Next.js
+- **Styling**: Coming soon
+- **External Data**: Event APIs, Wanderlog user data (planned)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🚀 Status
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+✅ Project setup complete  
+🔜 Free time detection logic  
+🔜 WanderSpot suggestion engine  
+🔜 WanderCard UI component
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Want to contribute or follow along? Let’s connect!  
